@@ -1,0 +1,7 @@
+.offset(x: CGFloat($0)*10,
+        y: CGFloat($0)*10)  mesma vibe do spacer()
+
+.zIndex() muda a posicao dos elementos para nao mudar o codigo
+
+TextField --> variavel, que muda a parte superior
+buttom --> .alert
